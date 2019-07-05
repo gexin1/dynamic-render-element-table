@@ -1,0 +1,24 @@
+{
+	"name": "dynamic-render-element-table",
+	"version": "1.0.0",
+	"description": "动态渲染element表格像iview一样",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gexin1/dynamic-render-element-table.git"
+	},
+	"keywords": [
+		"element",
+		"table",
+		"iview"
+	],
+	"author": "river",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gexin1/dynamic-render-element-table/issues"
+	},
+	"homepage": "https://github.com/gexin1/dynamic-render-element-table#readme"
+}
